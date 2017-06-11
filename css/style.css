@@ -193,8 +193,8 @@ label.line {
     margin: 12px auto;
 }
 .about img {
-    width: 10%;
-    border-radius: 50%;
+    width: 50%;
+    border-radius: 20%;
 	margin-top:35px;
 }
 .about p{

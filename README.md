@@ -10,3 +10,8 @@
 * 项目 详细说明</br>
 * 获奖情况详细说明</br>
 * 其他</br>
+
+## 在线虚拟简历:<br>
+
+* [虚拟简历网址](https://www.visualcv.com/app/#/cvs/2536643)<br>
+* [数据挖掘方面简历](https://www.visualcv.com/p8yfjwl2kwc)<br>

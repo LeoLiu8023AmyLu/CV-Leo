@@ -115,17 +115,17 @@ h4.agile{
     -o-transition: all 0.5s;
     transition: all 0.5s;
 }
-.b-part3 .fa-facebook:hover{
-	color:#4867aa;
-	border: 2px solid #4867aa;
+.b-part3 .fa-weixin:hover{
+	color:#398439;
+	border: 2px solid #398439;
 }
 .b-part3 .fa-linkedin:hover{
 	color:#0076b4;
 	border: 2px solid #0076b4;
 }
-.b-part3 .fa-pinterest-p:hover{
-	color:#ba221d;
-	border: 2px solid #ba221d;
+.b-part3 .fa-qq:hover{
+	color:#A94442;
+	border: 2px solid #A94442;
 }
 .b-part3 .fa-vimeo:hover{
 	color:#0baee9;
@@ -139,7 +139,7 @@ h4.agile{
 	color:#36465d;
 	border: 2px solid #36465d;
 }
-.b-part3 .fa-facebook,.b-part3 .fa-linkedin,.b-part3 .fa-pinterest{
+.b-part3 .fa-weixin,.b-part3 .fa-linkedin,.b-part3 .fa-qq{
 	margin-bottom:20px
 }
 .b-part4{
@@ -168,6 +168,9 @@ h4.agile{
 	-moz-transform:rotate(90deg);
 	-o-transform:rotate(90deg);
 	-ms-transform:rotate(90deg);
+}
+.b-part4 .fa-github:hover{
+	color:#46B8DA;
 }
 .b-part4 h4{
 	color:#fff;
